@@ -9,6 +9,8 @@ namespace Odev01
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("test");
+
+            //degisiklik yaptiginda. sol taraftan commit yap
         }
     }
 }
