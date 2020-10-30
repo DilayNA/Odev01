@@ -7,7 +7,7 @@ namespace Odev01
         static void Main(string[] args)
         {
             
-Console.Write("Metni girin girin ...: ");
+Console.Write("Metni girin ...: ");
             string metin = Console.ReadLine();
             int uzunluk = metin.Length;
             
