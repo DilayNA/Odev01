@@ -14,7 +14,7 @@ Console.Write("Metni girin girin ...: ");
             Console.Write("Girdiğiniz metnin uzunluğu ....=" + uzunluk);
             
             Console.ReadLine();
-
+            //test1
         }
     }
 }
