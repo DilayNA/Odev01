@@ -6,11 +6,15 @@ namespace Odev01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+Console.Write("Metni girin girin ...: ");
+            string metin = Console.ReadLine();
+            int uzunluk = metin.Length;
+            
+            Console.Write("Girdiğiniz metnin uzunluğu ....=" + uzunluk);
+            
+            Console.ReadLine();
 
-            Console.WriteLine("test");
-
-            //degisiklik yaptiginda. sol taraftan commit yap
         }
     }
 }
