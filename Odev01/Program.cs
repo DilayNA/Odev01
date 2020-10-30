@@ -11,10 +11,10 @@ Console.Write("Metni girin girin ...: ");
             string metin = Console.ReadLine();
             int uzunluk = metin.Length;
             
-            Console.Write("Girdiğiniz metnin uzunluğu ....=" + uzunluk);
+            Console.Write("Girdiğiniz metnin uzunluğu ..=" + uzunluk);
             
             Console.ReadLine();
-            //test1
+            
         }
     }
 }
